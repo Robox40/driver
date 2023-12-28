@@ -1,0 +1,2 @@
+Invoking command in '/home/ilyas/workspace/dirver_ws/build/driver': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ilyas/workspace/dirver_ws/build/driver -- -j8 -l8
+Invoked command in '/home/ilyas/workspace/dirver_ws/build/driver' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ilyas/workspace/dirver_ws/build/driver -- -j8 -l8
