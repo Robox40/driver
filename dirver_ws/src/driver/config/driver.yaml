@@ -1,5 +1,0 @@
-# motor_controller_config.yaml
-
-motor_controller:
-  cmd_vel_topic: "cmd_vel"
-  motor_output_topic: "motor_output"

@@ -1,9 +1,0 @@
-/home/ilyas/workspace/dirver_ws/src/driver/build/driver/CMakeFiles/uninstall.dir
-/home/ilyas/workspace/dirver_ws/src/driver/build/driver/CMakeFiles/driver_uninstall.dir
-/home/ilyas/workspace/dirver_ws/src/driver/build/driver/CMakeFiles/test.dir
-/home/ilyas/workspace/dirver_ws/src/driver/build/driver/CMakeFiles/edit_cache.dir
-/home/ilyas/workspace/dirver_ws/src/driver/build/driver/CMakeFiles/rebuild_cache.dir
-/home/ilyas/workspace/dirver_ws/src/driver/build/driver/CMakeFiles/list_install_components.dir
-/home/ilyas/workspace/dirver_ws/src/driver/build/driver/CMakeFiles/install.dir
-/home/ilyas/workspace/dirver_ws/src/driver/build/driver/CMakeFiles/install/local.dir
-/home/ilyas/workspace/dirver_ws/src/driver/build/driver/CMakeFiles/install/strip.dir
