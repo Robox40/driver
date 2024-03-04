@@ -5,7 +5,7 @@ def generate_launch_description():
     return LaunchDescription([
         Node(
              package='driver',
-            executable='driver_node',
-            name='driver_node'
+            executable='calcul_node',
+            name='calcul_node'
         )
     ])

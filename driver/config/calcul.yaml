@@ -1,0 +1,10 @@
+calculNode: 
+  ros__parameters:
+    tick_per_round_encodors : 24 
+    gear_box : 61/1
+    
+    # time conversion min 
+    time_conversion : 60/3
+    # speed 
+    speed_for_mot0_mot1 : -100
+    speed_for_mot2_mot3 :  100
